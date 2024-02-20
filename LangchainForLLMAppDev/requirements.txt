@@ -1,0 +1,10 @@
+openai==0.27.7
+python-dotenv
+langchain==0.0.179
+tiktoken
+pandas
+docarray
+wikipedia
+DateTime
+ipython
+ipykernel
