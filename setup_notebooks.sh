@@ -31,3 +31,24 @@ echo '
 Add the following to your .env file:
 OPENAI_API_KEY=your_openai_api_key
 '
+
+echo '
+make sure the following extensions are installed:
+REQUIRED:
+ms-python.python
+ms-python.vscode-pylance
+ms-toolsai.jupyter
+
+RECOMMENDED:
+mikestead.dotenv
+GitHub.copilot
+ms-python.pylint
+ms-python.black-formatter
+
+OPTIONAL:
+GitHub.copilot-chat
+ms-python.debugpy
+ms-vsliveshare.vsliveshare
+ms-toolsai.vscode-jupyter-cell-tags
+ms-toolsai.jupyter-keymap
+'
